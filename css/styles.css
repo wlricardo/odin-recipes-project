@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo {
+    width: 240px;
+    align-items: center;
+}
+
+.navbar {
+    background-color: lightcoral;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.recipes {
+    background-color: aquamarine;
+}
+
+img {
+    padding-bottom: 5px;
+}
+
+.text-recipe {
+    font-size: 14px;
+    text-align: justify;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.mail {
+    color: white;
+    background-color: crimson;
+}
